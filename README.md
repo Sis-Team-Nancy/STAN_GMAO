@@ -9,6 +9,7 @@ informations d'inventaire et de maintenance pourront être exportées en fichier
 vers une solution d'éditeur.
 
 IL FAUT IMPERATIVEMENT CHARGER L'ENSEMBLE DU DOSSIER "ST@N EXE" et le renommer "ST@N" SUR VOTRE PC
+OU BIEN CHARGER LA VERSION COMPRESSEE et y ajouter une copie de STAN_GMAO dans un dossier Tables/Sauvegardes/Versions ... au cas où.
 
 En l'abscence d'un gestionaire de base de donnée expérimenté sur site, l'accès aux tables critiques est bloqué.
 
