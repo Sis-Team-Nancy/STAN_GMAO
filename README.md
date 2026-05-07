@@ -27,12 +27,11 @@ t qu’emplacement approuvé pour éviter des messages d’avertissements systé
 (commande « Regedit ») et d’ajouter la clé comme exliqué dans le mode d'emploi.
 
 Sur la version de démo, les mdp sont "DEMO"
-       _________________________________________________________________________________________________________________________________________________________________________________________
+       ________________________________________________________________________________________________________________________________________
 
 Les versions en .accdb sont destinées à l'apprentissage, pour comprendre un SGBD, apprendre à créer ses indicateurs ou pour tester l'ajout
 de fonctionalités avant de les proposer aux éditeurs. Il est fortement déconseillé d'utiliser ces versions en routine pour le suivi des
 équipements médicaux, vos modifications pouvant altérer le fonctionnement de la base. 
-       _________________________________________________________________________________________________________________________________________________________________________________________
-
+       _______________________________________________________________________________________________________________________________________
 Toute exploitation commerciale de cette application libre serait contraire aux valeurs fondamentales de Sis Team Nancy.
 Toute utilisation dans le cadre de la formation des techniciens et ingénieurs biomédicaux serait parfaitement conforme à nos valeurs;-).
