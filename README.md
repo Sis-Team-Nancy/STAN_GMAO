@@ -3,29 +3,17 @@ Projet de GMAO Biomédicale libre sous Access
 
        _________________________________________________________________________________________________________________________________________________________________________________________
 
-Pour la version exécutable monoposte sécurisée: Elle est destinée aux petits services biomédicaux ne disposant pas
-encore de Registre Sécurité Qualité Maintenance, pour réaliser leur inventaire et s'initier à la GMAO. Les 
-informations d'inventaire et de maintenance pourront être exportées en fichiers texte, en vue d'être réimportées 
-vers une solution d'éditeur.
+Pour la version exécutable monoposte sécurisée: Elle est destinée aux petits services biomédicaux ne disposant pas encore de Registre Sécurité Qualité Maintenance, pour réaliser leur inventaire et s'initier à la GMAO. Les informations d'inventaire et de maintenance pourront être exportées en fichiers texte, en vue d'être réimportées vers une solution d'éditeur. En l'abscence d'un gestionaire de base de donnée expérimenté sur site, l'accès aux tables critiques est bloqué.
 
-IL FAUT IMPERATIVEMENT CHARGER L'ENSEMBLE DU DOSSIER "ST@N EXE" et le renommer "ST@N" SUR VOTRE PC
-OU BIEN CHARGER LA VERSION COMPRESSEE et y ajouter une copie de STAN_GMAO dans un dossier Tables/Sauvegardes/Versions ... au cas où.
+IL FAUT IMPERATIVEMENT CHARGER L'ENSEMBLE DU DOSSIER "ST@N EXE" et le renommer "ST@N" SUR VOTRE PC sous ‪C:\ST@N
 
-En l'abscence d'un gestionaire de base de donnée expérimenté sur site, l'accès aux tables critiques est bloqué.
-
-L’application nécessite l’installation du dossier « ST@N » complet à copier sous la racine C:\ d’un ordinateur sous
-Windows 10 ou Windows 11, avec au minimum 4 Go de mémoire vive, et ne disposant pas de Microsoft Access. 
-L’utilisateur devra au préalable installer le Microsoft 365 Access Runtime (gratuit) en version 64 bits depuis le site
-de Microsoft : 
+L’application nécessite l’installation du dossier « ST@N » complet à copier sous la racine C:\ d’un ordinateur sous Windows 10 ou Windows 11, avec au minimum 4 Go de mémoire vive, et ne disposant pas de Microsoft Access. 
+L’utilisateur devra au préalable installer le Microsoft 365 Access Runtime (gratuit) en version 64 bits depuis le site de Microsoft : 
 https://support.microsoft.com/fr-fr/office/t%C3%A9l%C3%A9charger-et-installer-microsoft-365 access-runtime-185c5a32-8ba9-491e-ac76-91cbe3ea09c9 
 
-Si le dossier « ST@N » a été téléchargé en dossier compressé, il est possible sous Windows 11 que les fichiers décompressés
-soient bloqués, il suffit alors d’accéder au propriétés de chaque fichier dans 
-chaque dossier et sous dossier, et cliquer sur la case « Débloquer » 
+Si le dossier « ST@N » a été téléchargé en dossier compressé, il est possible sous Windows 11 que les fichiers décompressés soient bloqués, il suffit alors d’accéder au propriétés de chaque fichier dans chaque dossier et sous dossier, et cliquer sur la case « Débloquer » 
 
-ST@N GMAO étant une application exécutable, tout le dossier C:\ST@N et ses sous dossiers doivent être déclarés en tan
-t qu’emplacement approuvé pour éviter des messages d’avertissements systématiques. Cela nécessite d’accéder la base de registre
-(commande « Regedit ») et d’ajouter la clé comme exliqué dans le mode d'emploi.
+ST@N GMAO étant une application exécutable, tout le dossier C:\ST@N et ses sous dossiers doivent être déclarés en tant qu’emplacement approuvé pour éviter des messages d’avertissements systématiques. Cela nécessite d’accéder la base de registre (commande « Regedit ») et d’ajouter la clé comme exliqué dans le mode d'emploi.
 
 Sur la version de démo, les mdp sont "DEMO"
        _______________________________________________________________________________________________________________________________________
