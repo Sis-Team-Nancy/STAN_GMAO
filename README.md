@@ -3,7 +3,9 @@ Projet de GMAO Biomédicale libre sous Access
 
        _________________________________________________________________________________________________________________________________________________________________________________________
 
-Pour la version exécutable monoposte sécurisée: Elle est destinée aux petits services biomédicaux ne disposant pas encore de Registre Sécurité Qualité Maintenance, pour réaliser leur inventaire et s'initier à la GMAO. Les informations d'inventaire et de maintenance pourront être exportées en fichiers texte, en vue d'être réimportées vers une solution d'éditeur. En l'abscence d'un gestionaire de base de donnée expérimenté sur site, l'accès aux tables critiques est bloqué.
+A. ST@N EXE
+
+Il s'agit de la version standard monoposte sécurisée, elle est destinée aux petits services biomédicaux ne disposant pas encore de Registre Sécurité Qualité Maintenance, pour réaliser leur inventaire et s'initier à la GMAO. Les informations d'inventaire et de maintenance pourront être exportées en fichiers texte, en vue d'être réimportées vers une solution d'éditeur. En l'abscence d'un gestionaire de base de donnée expérimenté sur site, l'accès aux tables critiques est bloqué.
 
 IL FAUT IMPERATIVEMENT CHARGER L'ENSEMBLE DU DOSSIER "ST@N EXE" et le renommer "ST@N" SUR VOTRE PC sous ‪C:\ST@N
 
@@ -16,12 +18,19 @@ Si le dossier « ST@N » a été téléchargé en dossier compressé, il est pos
 ST@N GMAO étant une application exécutable, tout le dossier C:\ST@N et ses sous dossiers doivent être déclarés en tant qu’emplacement approuvé pour éviter des messages d’avertissements systématiques. Cela nécessite d’accéder la base de registre (commande « Regedit ») et d’ajouter la clé comme exliqué dans le mode d'emploi.
 
 Sur la version de démo, les mdp sont "DEMO"
+
+B. ST@N Ouvert
+Pour utilisateurs avertis, ou desireux de de se former.
+Les bases de tables et d'exploitation sont séparées, à vous de recréer les liens selon là où vous placez la base de tables.
+Vous trouverez également une version de base de table avec quelques données (à renommer "ST@N_Tables" et placer à la place de celle d'origine).
+Enfin une version ST@N_GMAO\Int avec tous les éléments dans la même base. A vous de juger si c'est mieux, de par notre petite expérience une telle structure s'avère rapidement problématique pour sa maintenance.
+
+Les versions en .accdb sont destinées à l'apprentissage, pour comprendre un SGBD, apprendre à créer ses indicateurs ou pour tester l'ajout de fonctionnalités avant de les proposer aux éditeurs. Il est fortement déconseillé d'utiliser ces versions en routine pour le suivi des équipements médicaux, vos modifications pouvant altérer le fonctionnement de la base. Ne distribuez pas une version avec vos modifications sans avoir testé l'ensemble de la GMAO sur tous les cas de figures, c'est chronophage mais indispensable.
+
        _______________________________________________________________________________________________________________________________________
 
-Les versions en .accdb sont destinées à l'apprentissage, pour comprendre un SGBD, apprendre à créer ses indicateurs ou pour tester l'ajout
-de fonctionalités avant de les proposer aux éditeurs. Il est fortement déconseillé d'utiliser ces versions en routine pour le suivi des
-équipements médicaux, vos modifications pouvant altérer le fonctionnement de la base. 
+              Toute exploitation commerciale de cette application libre serait contraire aux valeurs fondamentales de Sis Team Nancy.
+       Toute utilisation dans le cadre de la formation des techniciens et ingénieurs biomédicaux serait parfaitement conforme à nos valeurs;-).
        _______________________________________________________________________________________________________________________________________
        
-Toute exploitation commerciale de cette application libre serait contraire aux valeurs fondamentales de Sis Team Nancy.
-Toute utilisation dans le cadre de la formation des techniciens et ingénieurs biomédicaux serait parfaitement conforme à nos valeurs;-).
+
