@@ -20,6 +20,7 @@ ST@N GMAO étant une application exécutable, tout le dossier C:\ST@N et ses sou
 Sur la version de démo, les mdp sont "DEMO"
 
 B. ST@N Ouvert
+
 Pour utilisateurs avertis, ou desireux de de se former.
 Les bases de tables et d'exploitation sont séparées, à vous de recréer les liens selon là où vous placez la base de tables.
 Vous trouverez également une version de base de table avec quelques données (à renommer "ST@N_Tables" et placer à la place de celle d'origine).
